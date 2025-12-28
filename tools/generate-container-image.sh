@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 set -ex
 
 if [ $# -lt 1 ]; then

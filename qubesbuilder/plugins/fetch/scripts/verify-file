@@ -1,5 +1,5 @@
-#!/bin/bash
-#
+#!/usr/bin/env bash
+# 
 # The Qubes OS Project, http://www.qubes-os.org
 #
 # Copyright (C) 2021 Frédéric Pierret (fepitre) <frederic@invisiblethingslab.com>
